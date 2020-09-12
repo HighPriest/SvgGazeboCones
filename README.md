@@ -16,6 +16,7 @@ Description of a process of translating a race track traced with bezier-curves i
 1.2. Download image of your track and import it into inkscape  
 1.3. Align center of the track with top-left corner of the canvas  
 1.4. Resize the image, so a single grid space matches track-width  
+![Proper canvas setup](https://i.imgur.com/zURDD6y.png)
 
 2. Trace the track  
 2.1. Make sure that the Layer you are working on has no transform on it (through XML Editor)  
