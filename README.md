@@ -10,6 +10,7 @@ Description of a process of translating a race track traced with bezier-curves i
 - Top-view image of the track
 - Desired cone spacing
 
+## Process:
 1. Setup canvas  
 1.1. Go to File->Document Properties->Grids and set Spacing to desired track width in meters + Major Grid line every "1"  
 1.2. Download image of your track and import it into inkscape  
