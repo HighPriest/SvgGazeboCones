@@ -16,13 +16,13 @@ Description of a process of translating a race track traced with bezier-curves i
 1.2. Download image of your track and import it into inkscape  
 1.3. Align center of the track with top-left corner of the canvas  
 1.4. Resize the image, so a single grid space matches track-width  
-![Proper canvas setup](https://i.imgur.com/zURDD6y.png | width=500)
+<img src=https://i.imgur.com/zURDD6y.png width=500 alt="Proper canvas setup">  
 
 2. Trace the track  
 2.1. Make sure that the Layer you are working on has no transform on it (through XML Editor)  
 2.2. Trace through middle of the desired track with bezier-curves  
 2.3. Adjust stroke width of the line to track width  
-![Track defined with stroke](https://i.imgur.com/aMMf92l.png | width=500)
+<img src=https://i.imgur.com/aMMf92l.png width=500 alt="Track defined with stroke">  
 
 3. Define track boundaries  
 3.1. Select the curve and select Path->Stroke to Path  
@@ -38,7 +38,7 @@ Description of a process of translating a race track traced with bezier-curves i
 5.2. Go to Extensions->Generate from path->Pattern along path  
 5.3. Set Repeated, Snake and Space between copies to desired value (it will match to meters in Gazebo)  
 5.4. Check your results with live preview or Apply  
-![Cone pattern](https://i.imgur.com/1jbqVdd.png | width=500)
+<img src=https://i.imgur.com/1jbqVdd.png width=500 alt="Cone pattern">  
 
 6. Separate cones into individual objects  
 6.1. Create layers for inside and outside cones  
