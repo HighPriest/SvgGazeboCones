@@ -22,6 +22,7 @@ Description of a process of translating a race track traced with bezier-curves i
 2.1. Make sure that the Layer you are working on has no transform on it (through XML Editor)  
 2.2. Trace through middle of the desired track with bezier-curves  
 2.3. Adjust stroke width of the line to track width  
+![Track defined with stroke](https://i.imgur.com/aMMf92l.png)
 
 3. Define track boundaries  
 3.1. Select the curve and select Path->Stroke to Path  
@@ -37,6 +38,7 @@ Description of a process of translating a race track traced with bezier-curves i
 5.2. Go to Extensions->Generate from path->Pattern along path  
 5.3. Set Repeated, Snake and Space between copies to desired value (it will match to meters in Gazebo)  
 5.4. Check your results with live preview or Apply  
+![Cone pattern](https://i.imgur.com/1jbqVdd.png)
 
 6. Separate cones into individual objects  
 6.1. Create layers for inside and outside cones  
