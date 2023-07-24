@@ -1,6 +1,9 @@
 # SvgGazeboCones
 Description of a process of translating a race track traced with bezier-curves into evenly spaced cones ready for Gazebo.
 
+## Video description of the process
+https://www.youtube.com/watch?v=BK7ccQcyMGI
+
 ## Tools needed:
 - Powershell
 - Inkscape
